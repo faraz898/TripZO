@@ -1,2 +1,2 @@
 # TripZO
-Travel &amp; Tourism Managemnt System Portal
+Travel &amp; Tourism Management System Portal
